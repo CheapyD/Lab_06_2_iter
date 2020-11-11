@@ -1,0 +1,4 @@
+﻿  Lab_06_2_iter.cpp
+C:\Users\Angry\source\repos\Lab_06_2_iter\Lab_06_2_iter\Lab_06_2_iter.cpp(65,6): warning C4101: imax: неиспользованная локальная переменная
+C:\Users\Angry\source\repos\Lab_06_2_iter\Lab_06_2_iter\Lab_06_2_iter.cpp(66,6): warning C4101: imin: неиспользованная локальная переменная
+  Lab_06_2_iter.vcxproj -> C:\Users\Angry\source\repos\Lab_06_2_iter\Debug\Lab_06_2_iter.exe
